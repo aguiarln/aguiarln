@@ -1,7 +1,9 @@
+<a href="https://aguiarln.github.io">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.png">
   <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light-v2.png" width="100%">
 </picture>
+</a>
 
 <p align="center"><a href="https://github.com/aguiarln">English</a> · <b>Português</b></p>
 
@@ -40,7 +42,7 @@ Agora, no **BI Master da PUC-Rio**, estou somando dados e IA a essa caixa de fer
 ### Contato
 
 <p>
-  <a href="https://aguiarln.github.io"><img alt="Portfólio · aguiarln.github.io" src="https://img.shields.io/badge/Portf%C3%B3lio-aguiarln.github.io-F2A541?style=for-the-badge&labelColor=0A1A33"></a>
-  <a href="https://www.linkedin.com/in/aguiarluizneto/"><img alt="LinkedIn · aguiarluizneto" src="https://img.shields.io/badge/LinkedIn-aguiarluizneto-1F4480?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1A33"></a>
-  <a href="mailto:aguiarluizneto@hotmail.com"><img alt="E-mail · aguiarluizneto@hotmail.com" src="https://img.shields.io/badge/E--mail-aguiarluizneto%40hotmail.com-1F4480?style=for-the-badge&labelColor=0A1A33"></a>
+  <a href="https://aguiarln.github.io/cv/Luiz_Aguiar_Neto_CV_PT.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark-v2.png"><img alt="CV (PDF)" src="assets/btn-cv-light-v2.png" height="48"></picture></a>
+  <a href="https://www.linkedin.com/in/aguiarluizneto/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark-v2.png"><img alt="LinkedIn" src="assets/btn-linkedin-light-v2.png" height="48"></picture></a>
+  <a href="mailto:aguiarluizneto@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-pt-dark-v2.png"><img alt="E-mail: aguiarluizneto@hotmail.com" src="assets/btn-email-pt-light-v2.png" height="48"></picture></a>
 </p>

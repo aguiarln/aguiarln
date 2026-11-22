@@ -1,7 +1,9 @@
+<a href="https://aguiarln.github.io">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.png">
   <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light-v2.png" width="100%">
 </picture>
+</a>
 
 <p align="center">
   <picture>
@@ -47,7 +49,7 @@ Now, through **PUC-Rio's BI Master**, I'm adding data and AI to that toolbox.
 ### Find me
 
 <p>
-  <a href="https://aguiarln.github.io"><img alt="Portfolio · aguiarln.github.io" src="https://img.shields.io/badge/Portfolio-aguiarln.github.io-F2A541?style=for-the-badge&labelColor=0A1A33"></a>
-  <a href="https://www.linkedin.com/in/aguiarluizneto/"><img alt="LinkedIn · aguiarluizneto" src="https://img.shields.io/badge/LinkedIn-aguiarluizneto-1F4480?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1A33"></a>
-  <a href="mailto:aguiarluizneto@hotmail.com"><img alt="Email · aguiarluizneto@hotmail.com" src="https://img.shields.io/badge/Email-aguiarluizneto%40hotmail.com-1F4480?style=for-the-badge&labelColor=0A1A33"></a>
+  <a href="https://aguiarln.github.io/cv/Luiz_Aguiar_Neto_CV_EN.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark-v2.png"><img alt="CV (PDF)" src="assets/btn-cv-light-v2.png" height="48"></picture></a>
+  <a href="https://www.linkedin.com/in/aguiarluizneto/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark-v2.png"><img alt="LinkedIn" src="assets/btn-linkedin-light-v2.png" height="48"></picture></a>
+  <a href="mailto:aguiarluizneto@hotmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark-v2.png"><img alt="Email: aguiarluizneto@hotmail.com" src="assets/btn-email-light-v2.png" height="48"></picture></a>
 </p>
