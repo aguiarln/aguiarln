@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.png">
+  <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light-v2.png" width="100%">
 </picture>
 
 <p align="center"><a href="https://github.com/aguiarln">English</a> · <b>Português</b></p>
@@ -16,8 +16,8 @@ Agora, no **BI Master da PUC-Rio**, estou somando dados e IA a essa caixa de fer
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img alt="Stack: Linguagens (Python, SQL, MATLAB, VBA) · Dados &amp; ML, em desenvolvimento (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Ferramentas (Git, GitHub, VS Code, pytest, assistentes de IA) · Automação de engenharia (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark-v2.png">
+  <img alt="Stack: Linguagens (Python, SQL, MATLAB, VBA) · Dados &amp; ML, em desenvolvimento (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Ferramentas (Git, GitHub, VS Code, pytest, assistentes de IA) · Automação de engenharia (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light-v2.png" width="100%">
 </picture>
 
 ### Projetos em destaque

@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.png">
+  <img alt="Luiz Aguiar Neto · Automate the routine. Engineer what matters." src="assets/banner-light-v2.png" width="100%">
 </picture>
 
 <p align="center">
@@ -23,8 +23,8 @@ Now, through **PUC-Rio's BI Master**, I'm adding data and AI to that toolbox.
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img alt="Stack: Languages (Python, SQL, MATLAB, VBA) · Data &amp; ML, in progress (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Tools (Git, GitHub, VS Code, pytest, AI assistants) · Engineering automation (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark-v2.png">
+  <img alt="Stack: Languages (Python, SQL, MATLAB, VBA) · Data &amp; ML, in progress (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Tools (Git, GitHub, VS Code, pytest, AI assistants) · Engineering automation (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light-v2.png" width="100%">
 </picture>
 
 ### Featured projects
