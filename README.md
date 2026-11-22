@@ -24,7 +24,7 @@ Now, through **PUC-Rio's BI Master**, I'm adding data and AI to that toolbox.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img alt="Stack: Abaqus, ANSYS, SimSolid, Siemens NX, Teamcenter, AutoCAD, DNV standards · Python, MATLAB, VBA, Mathcad · PostgreSQL, pandas, NumPy, Power BI, scikit-learn, PyTorch (in progress) · Git, GitHub, VS Code" src="assets/stack-light.png" width="100%">
+  <img alt="Stack: Languages (Python, SQL, MATLAB, VBA) · Data &amp; ML, in progress (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Tools (Git, GitHub, VS Code, pytest, AI assistants) · Engineering automation (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light.png" width="100%">
 </picture>
 
 ### Featured projects

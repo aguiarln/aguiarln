@@ -17,7 +17,7 @@ Agora, no **BI Master da PUC-Rio**, estou somando dados e IA a essa caixa de fer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img alt="Stack: Abaqus, ANSYS, SimSolid, Siemens NX, Teamcenter, AutoCAD, normas DNV · Python, MATLAB, VBA, Mathcad · PostgreSQL, pandas, NumPy, Power BI, scikit-learn, PyTorch (em desenvolvimento) · Git, GitHub, VS Code" src="assets/stack-light.png" width="100%">
+  <img alt="Stack: Linguagens (Python, SQL, MATLAB, VBA) · Dados &amp; ML, em desenvolvimento (pandas, NumPy, SciPy, Matplotlib, scikit-learn, PyTorch, PostgreSQL, Streamlit, Power BI) · Ferramentas (Git, GitHub, VS Code, pytest, assistentes de IA) · Automação de engenharia (Abaqus scripting, ANSYS APDL, Mathcad)" src="assets/stack-light.png" width="100%">
 </picture>
 
 ### Projetos em destaque
